@@ -1,3 +1,25 @@
+- title: "Advanced Course on Data Science & Machine Learning"
+  year: 2026
+  id: acdl26
+  full_name: "Advanced Course on Data Science & Machine Learning (ACDL) 2026"
+  link: "https://acdl2026.icas.events/"
+  deadline: "2026-05-23 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Grosseto, Italy"
+  date: "June 08 - June 12, 2026"
+  start: 2025-06-08
+  end: 2025-06-12
+  sub: ['ML']
+  note: null
+  twitter: "https://x.com/taosciences"
+  email: "acdl@icas.cc"
+  description: "The 9th Advanced Course on Data Science & Machine Learning – ACDL 2026 is a full-immersion five-day Course at the Riva del Sole Resort & SPA (Castiglione della Pescaia – Grosseto  – Tuscany, Italy) on cutting-edge advances in Deep Learning, Data Science and Generative AI with lectures delivered by world-renowned experts. The Course provides a stimulating environment for PhD students, Post-Docs,  junior academics (only up to assistant professors), early career researches,  and industry leaders (and highly motivated, promising and brilliant Master students / BSc students). Participants will also have the chance to present their results with talks, and to interact with their colleagues, in a convivial, professional and productive environment."
+  image: "https://acdl2026.icas.events/wp-content/uploads/sites/36/2025/05/acdl2026-logo-web-small.png"
+  location:
+    latitude: 42.77079126926875
+    longitude: 10.852376626839042
+
+
 - title: "NeuMat Winter School"
   year: 2026
   id: neuromorphiccomputingwinterschool26
